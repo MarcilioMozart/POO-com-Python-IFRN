@@ -1,0 +1,1 @@
+Exercício 2 - Criar uma classe de nome Aluno que possui as seguintes características: Nome, Curso e a Série do aluno.
