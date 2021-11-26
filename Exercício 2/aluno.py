@@ -1,9 +1,9 @@
 ''' Crie uma classe Aluno com as seguintes características: Nome, Curso, Serie'''
 
 class Aluno :
-  nome = ""
-  curso = ""
-  serie = ""
+  nome = None
+  curso = None
+  serie = None
 
   def __init__(self, pNome, pCurso, pSerie) :
     self.nome = pNome
